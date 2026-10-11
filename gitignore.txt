@@ -1,0 +1,7 @@
+piper.exe
+*.onnx
+*.onnx.json
+*.wav
+piper/
+__pycache__/
+.streamlit/
